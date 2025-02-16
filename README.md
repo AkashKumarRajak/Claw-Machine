@@ -1,56 +1,55 @@
-<h1>Interactive Claw Machine Game 🎮</h1><br>
+<h1>Interactive Claw Machine Game 🎮</h1>
 
-🛠️ Project Overview<br>
-The **Interactive Claw Machine Game** is a web-based game that simulates a claw machine experience. Built using **HTML**, **CSS**, and **JavaScript**, this game provides an engaging and fun interaction for users.<br>
+🛠️ Project Overview
+The **Interactive Claw Machine Game** is a web-based game that simulates a claw machine experience. Built using **HTML**, **CSS**, and **JavaScript**, this game provides an engaging and fun interaction for users.
 
-🌟 Features<br>
-- 🎯 Interactive claw machine controls<br>
-- 🧸 Variety of toys to collect<br>
-- 🎨 Pixel-art style for a retro gaming feel<br>
-- ⚙️ Dynamic animations for realistic claw movement<br>
-- 📱 Responsive design for different devices<br>
+🌟 Features
+- 🎯 Interactive claw machine controls
+- 🧸 Variety of toys to collect
+- 🎨 Pixel-art style for a retro gaming feel
+- ⚙️ Dynamic animations for realistic claw movement
+- 📱 Responsive design for different devices
 
-🖥️ Technologies Used<br>
-- HTML5<br>
-- CSS3<br>
-- JavaScript<br>
+🖥️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
-🛠️ Setup Instructions<br>
-1. **Clone the Repository:**<br>
-   ```
+🛠️ Setup Instructions
+1. **Clone the Repository:**
+   ```bash
    git clone https://github.com/AkashKumarRajak/Interactive-Claw-Machine.git
-   ```<br>
-
-2. **Navigate to the Directory:**<br>
    ```
+
+2. **Navigate to the Directory:**
+   ```bash
    cd Interactive-Claw-Machine
-   ```<br>
+   ```
 
-3. **Open the Game:**<br>
-   - Open `index.html` in your preferred web browser.<br>
+3. **Open the Game:**
+   - Open `index.html` in your preferred web browser.
 
-🎯 How to Play<br>
-1. Click on the **arrow buttons** to move the claw horizontally and vertically.<br>
-2. Position the claw above a toy and release the button to grab it.<br>
-3. The toy will be collected if positioned correctly.<br>
-4. Repeat the process to collect more toys!<br>
+🎯 How to Play
+1. Click on the **arrow buttons** to move the claw horizontally and vertically.
+2. Position the claw above a toy and release the button to grab it.
+3. The toy will be collected if positioned correctly.
+4. Repeat the process to collect more toys!
 
-🖼️ Project Structure<br>
+🖼️ Project Structure
 ```
 .
 ├── index.html    # Main HTML file
 ├── styles.css    # Styling for the game
 └── script.js     # Game logic and interactions
 ```
-<br>
 
-🤝 Contributing<br>
-Contributions are welcome! Feel free to open an issue or submit a pull request.<br>
+🤝 Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-🔗 Contact<br>
-- **Developer:** Akash Kumar Rajak<br>
-- **GitHub:** [AkashKumarRajak](https://github.com/AkashKumarRajak)<br>
-- **LinkedIn:** [Akash Kumar Rajak](https://www.linkedin.com/in/akash-kumar-rajak)<br>
+🔗 Contact
+- Akash Kumar Rajak
+- **GitHub:** [AkashKumarRajak](https://github.com/AkashKumarRajak)
+- **LinkedIn:** [Akash Kumar Rajak](https://www.linkedin.com/in/akash-kumar-rajak)
 
 ---
 
