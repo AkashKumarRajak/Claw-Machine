@@ -43,6 +43,9 @@ The **Interactive Claw Machine Game** is a web-based game that simulates a claw 
 └── script.js     # Game logic and interactions
 ```
 
+🌐 Live Demo
+- **Play Here:** [Interactive Claw Machine](https://claw-machine-beige.vercel.app/)
+
 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
